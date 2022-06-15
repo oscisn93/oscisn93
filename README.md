@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oscisn93
-- 👀 I’m interested in autonomous systems as a long term career goal. Other interests include web development, circuit implementation, breadboarding, and computer engineering projects in general.
-- 🌱 I’m currently learning VHDL and basics of FPGAs, thumb 2 assembly and basics of microcintrollers, fullstack web development with an emphasis on frontend technologies.
-- 💞️ I’m looking to collaborate on a frontend application in React as well as a long term computer engineering related project.
+- 👀 I’m interested in autonomous systems as a long term career goal. Other interests include web development, data analysis, artificial intelligence, and software engineering projects in general.
+- 🌱 I’m currently learning php, MySQL, R programming language, and am constantly learnin fullstack web development with an emphasis on javascript/node.js-related technologies.
+- 💞️ I’m looking to collaborate on a frontend application in React/Node.js and am open to working on other long term software engineering projects which are related to data analysis and AI/machine learning.
 - 📫 How to reach me: ocisneros1@csu.fullerton.edu
 
 <!---
