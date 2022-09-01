@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @oscisn93
-- 👀 I’m interested in autonomous systems as a long term career goal. Other interests include web development, data analysis, artificial intelligence, and software engineering projects in general.
-- 🌱 I’m currently developing my Python and C++ skills and learning about compilers, programming languages and computer security.
-- 💞️ I’m looking to collaborate on a fullstack application with a Typescript/React frontend, and a PHP, MySQL, and Node.js backend and would like to get involved in long projects involving python such as data analysis and machine learning.
-- 📫 How to reach me: ocisneros1@csu.fullerton.edu
-
-<!---
-oscisn93/oscisn93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I’m Oscar Cisneros, I'm currently pursuing a Bachelor's degree in computer science at California State University, Fullerton, with the primary focus of developing as a software engineer.
+## I’m interested in artificial intelligence and real-time machine learning applications, however I currently primarily have (relevant) experience with web development- specifically node.js, php, express.js, mongoose/mongo, MySQL, javascript/ES6, react, axios, consnsumnig/creating apis, build systems- webpack, typescript, babel, bun.js, and the ablility to translate the frontend & backend knowledge learned in these languages to new stacks. Would love to eventually combine my current web-related knowledge to my interest of macahine learning/AI.
+### Currently working on a fullstack web application for my Intro to Software Engineering course(CPSC-362): https://github.com/DByoyoer/FoCal.
+- 📫 Contact:
+    - school-email: ocineros1@csu.fullerton.edu
+    - work-email: oscar.cisneros@thelastmile.org
