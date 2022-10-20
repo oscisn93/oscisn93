@@ -3,4 +3,4 @@
 #### Currently working on a fullstack web application for my Intro to Software Engineering course(CPSC-362): https://github.com/DByoyoer/FoCal.
 #### Also working on a portfolio made with Svelte as a part of the Association of Computing and Machinery's Dev Team at CSUF:  https://github.com/oscisn93/portfolio
 #### 📫 Contact:
-    - school-email: ocineros1@csu.fullerton.edu
+    - school-email: ocisneros1@csu.fullerton.edu
