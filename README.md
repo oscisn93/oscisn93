@@ -4,4 +4,3 @@
 #### Also working on a portfolio made with Svelte as a part of the Association of Computing and Machinery's Dev Team at CSUF:  https://github.com/oscisn93/portfolio
 #### 📫 Contact:
     - school-email: ocineros1@csu.fullerton.edu
-    - work-email: oscar.cisneros@thelastmile.org
