@@ -13,6 +13,7 @@
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+    <img alt="Vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=yellow&style=for-the-badge" />
 </p>
     
 ##### Hi, I’m Oscar Cisneros, I'm currently pursuing a Bachelor's degree in computer science at California State University, Fullerton, on pace to graduate in 2024, with the primary focus of developing as a software engineer.
