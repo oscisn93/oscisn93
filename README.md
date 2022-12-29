@@ -2,8 +2,8 @@
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=yellow&style=for-the-badge" />
-    <img alt="Node-TS" src="https://img.shields.io/badge/Node.ts-3178C6?logo=ts-node&logoColor=green&style=for-the-badge" />
     <img alt="Node-JS" src="https://img.shields.io/badge/Node.js-000000?logo=node.js&logoColor=green&style=for-the-badge" />
+    <img alt="Node-TS" src="https://img.shields.io/badge/Node.ts-3178C6?logo=ts-node&logoColor=green&style=for-the-badge" />
     <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-FFFFFF?logo=javascript&logoColor=yellow&style=for-the-badge" />
     <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
