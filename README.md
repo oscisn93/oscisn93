@@ -5,8 +5,8 @@
 <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-FFFFFF?logo=typescript&logoColor=3178C6&style=for-the-badge" />
     <img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB&style=for-the-badge" />
-    <img alt="React-Router" src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=black&style=for-the-badge" />
-    <img alt="React-Query" src="https://img.shields.io/badge/React Query-FF4154?logo=reactquery&logoColor=EEEEEE&style=for-the-badge" />
+    <img alt="React-Query" src="https://img.shields.io/badge/React Query-EEEEEE?logo=reactquery&logoColor=FF4154&style=for-the-badge" />
+    <img alt="React-Router" src="https://img.shields.io/badge/React Router-333333?logo=reactrouter&logoColor=CA4245&style=for-the-badge" />
     <img alt="Axios" src="https://img.shields.io/badge/axios-FFFFFF?logo=axios&logoColor=5A29E4&style=for-the-badge" />
 </p>
 <p>
