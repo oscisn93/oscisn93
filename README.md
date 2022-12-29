@@ -28,10 +28,10 @@
 
 ## About Me
 
-> Currently pursuing a Bachelor's degree in computer science at Cal State Fullerton (CSUF), on pace to graduate in 2024, with the primary focus of developing as a software engineer.
-> 
-> I’m interested in artificial intelligence and real-time machine learning applications long term (post graduation). I currently have experience with web development and some basic systems programming and would love to eventually combine my current knowledge to my interest of macahine learning/AI.
+    Currently pursuing a Bachelor's degree in computer science at Cal State Fullerton (CSUF), on pace to graduate in 2024, with the primary focus of developing as a software engineer.
+
+    I’m interested in artificial intelligence and real-time machine learning applications long term (post graduation). I currently have experience with web development and some basic systems programming and would love to eventually combine my current knowledge to my interest of macahine learning/AI.
 
 ## In the Works...
 
-> Currently documenting and enhanching a web app I built for my software engineering course: https://github.com/oscisn93/FoCal.
+Currently documenting and enhanching a web app I built for my software engineering course: https://github.com/oscisn93/FoCal.
