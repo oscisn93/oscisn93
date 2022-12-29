@@ -4,7 +4,7 @@
 
 <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-FFFFFF?logo=typescript&logoColor=3178C6&style=for-the-badge" />
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+    <img alt="React" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB&style=for-the-badge" />
     <img alt="Redux" src="https://img.shields.io/badge/Redux Toolkit-764ABC?logo=redux&logoColor=black&style=for-the-badge" />
     <img alt="React-Query" src="https://img.shields.io/badge/React Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" />
 </p>
