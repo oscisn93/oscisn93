@@ -24,6 +24,7 @@
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=FFFFFF&style=for-the-badge" />
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-FFFFFF?logo=sqlite&logoColor=003B57&style=for-the-badge" />
     <img alt="Node-JS" src="https://img.shields.io/badge/Node.js-000000?logo=node.js&logoColor=green&style=for-the-badge" />
+    <img alt="php" src="https://img.shields.io/badge/php-FFFFFF?logo=php&logoColor=777BB4&style=for-the-badge" />
 </p>
 
 ## About Me
