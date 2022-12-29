@@ -1,7 +1,7 @@
 <img src="/long_banner.png" alt="banner" />
 
 <p>
-    <img alt="Node-JS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=black&style=for-the-badge" />
+    <img alt="Node-TS" src="https://img.shields.io/badge/Node.ts-3178C6?logo=ts-node&logoColor=green&style=for-the-badge" />
     <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
     <img alt="Redux" src="https://img.shields.io/badge/Redux Toolkit-764ABC?logo=redux&logoColor=black&style=for-the-badge" />
