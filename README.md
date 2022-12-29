@@ -15,8 +15,8 @@
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
     <img alt="Python" src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
     <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-000000?logo=fastapi&logoColor=009688&style=for-the-badge" />
-    <img alt="MySQL" src="https://img.shields.io/badge/fastapi-FFFFFF?logo=mysql&logoColor=4479A1&style=for-the-badge" />
-    <img alt="SQLite" src="https://img.shields.io/badge/fastapi-003B57?logo=sqlite&logoColor=FFFFFF&style=for-the-badge" />
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=FFFFFF&style=for-the-badge" />
+    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-FFFFFF?logo=sqlite&logoColor=003B57&style=for-the-badge" />
 
 </p>
     
