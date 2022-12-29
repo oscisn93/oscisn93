@@ -1,9 +1,9 @@
 <img src="/long_banner.png" alt="banner" />
 
 <p>
-    <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-1976D2?logo=typescript&logoColor=white&style=for-the-badge" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-    <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF7A2B?logo=svelte&logoColor=black&style=for-the-badge" />
+    <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=black&style=for-the-badge" />
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
