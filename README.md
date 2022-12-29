@@ -5,6 +5,7 @@
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
     <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF7A2B?logo=svelte&logoColor=black&style=for-the-badge" />
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
     
 ##### Hi, I’m Oscar Cisneros, I'm currently pursuing a Bachelor's degree in computer science at California State University, Fullerton, on pace to graduate in 2024, with the primary focus of developing as a software engineer.
