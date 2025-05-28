@@ -2,6 +2,8 @@
 
 Hello, my name is Oscar, although my programmer friends sometimes call me Big O! I am a Freelance Software Developer based out of Orange County, California. I recently graduated from California State University, Fullerton with a Bachelor of Science in Computer Science, and I love to work on anything from web services to microcontrollers. I am mostly a backend developer and I have worked with a variety of programming languages and technologies including: JavaScript, TypeScript, Python, Go, C, C++, and Rust. I am always looking to learn new things and improve my skills as a developer, and ultimately hope to become a backend developer with knowledge of Dev Ops. While I find meaning and challenge in freelance development, I am currently still looking for roles as a software developer with a local company in the Souther California region where I can continue to grow and develop my skills as an engineer. In the meantime I am dedicating a large portion of my time outside work to developing useful software products that friends and family can use and which will serve to demonstrate my progression within the discipline!
 
+[![roadmap.sh](https://roadmap.sh/card/tall/677332b170129741a83f6cbc?variant=dark&roadmaps=backend%2Clinux%2Cdevops%2Cgame-developer)](https://roadmap.sh)
+
 # My Favorite Technologies (not exhaustive)
 
 ![Go](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=FFFFFF&style=for-the-badge)
